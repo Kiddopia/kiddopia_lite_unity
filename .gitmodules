@@ -1,0 +1,3 @@
+[submodule "submodules/pblib"]
+	path = submodules/pblib
+	url = git@github.com:Kiddopia/pblib_unity_src.git
